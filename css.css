@@ -1,0 +1,174 @@
+
+
+
+.bgi1{
+    background-image: url(img/i1.jpg);background-position: center;background-size: cover;height: 600px;
+}
+.bgi8{
+    background-image: url(img/i8.jpg);background-position: center;background-size: cover;height: 400px;
+}
+.bgi9{
+    background-image: url(img/i9.jpg);background-position: center;background-size: cover;height: 400px;
+}
+.bgi10{
+    
+    background-image: url(img/i10.jpg);background-position: center;background-size: cover;height: 400px;
+}
+.bgi11{
+    background-image: url(img/i11.jpg);background-position: center;background-size: cover;
+}
+.bgi12{
+    background-image: url(img/i12.jpg);background-position: center;background-size: cover;
+}
+.bgi13{
+    background-image: url(img/i13.jpg);background-position: center;background-size: cover;
+}
+
+.bgi14{
+    background-image: url(img/i14.jpg);background-position: center;background-size: cover;
+}
+.bgi15{
+    background-image: url(img/i15.jpg);background-position: center;background-size: cover;
+}
+.bgi16{
+    background-image: url(img/i16.jpg);background-position: center;background-size: cover;
+}
+.bgi17{
+    background-image: url(img/i17.jpg);background-position: center;background-size: cover;
+}
+.bgi18{
+    background-image: url(img/i18.jpg);background-position: center;background-size: cover;
+}
+
+.bgi19{
+    background-image: url(img/i19.jpg);background-position: center;background-size: cover;
+}
+.bgi20{
+    background-image: url(img/i20.jpg);background-position: center;background-size: cover;
+}
+
+.bgi21{
+       background-image: url(img/i21.jpg);background-position: center;background-size: cover;background-attachment: fixed;
+}
+.bgi34{
+    background-image: url(img/i34.jpg);background-position: center;background-size: cover;background-attachment: fixed;
+}
+.bgi35{
+    background-image: url(img/i44.jpg);background-position: center;background-size: cover;background-attachment: fixed;
+}
+.bgi45{
+    background-image: url(img/i45.jpg);background-position: center;background-size: cover;background-attachment: fixed;
+}
+
+.tr{
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.313);
+
+}
+
+
+
+
+
+.btn1{
+    height: 46px;
+    width:141px;
+    background: white;
+    color:black;
+    border: none;
+   
+
+}
+
+.btn1:hover{
+    height: 46px;
+    width:141px;
+    color:white;
+    background: black;
+    
+}
+
+.btn2{
+    height: 46px;
+    width:141px;
+    background: transparent;
+    border: 1px solid white;
+    color:white;
+}
+
+.btn2:hover{
+    height: 46px;
+    width:141px;
+    color:black;
+    background: white;
+
+    
+}
+.w100{
+    width:100%;
+    height: 100px;
+}
+.i100{
+    width:100%;
+    height: 100%;
+}
+
+.bu1{
+    height: 20px;
+    width:20px;
+    border-radius: 50px;
+    border:1px solid white
+}
+.bu2{
+    border-radius: 15px;
+    height: 30px;
+    width: 50px;
+    border:none;
+    margin-top:10px
+}
+
+
+.hide .shop{
+    display: none;
+}
+
+.hide:hover .shop{
+    display: inline-block;
+}
+.mt10{
+    margin-top: 10px;
+}
+.ml60{
+    margin-left: 60px;
+}
+.ml120{
+    margin-left: 120px;
+}
+
+p{
+    margin: 0;
+}
+.fr{
+    float: right;
+}
+.hs{
+    color:#00000082;transition: .5s;
+}
+.hs:hover{
+    color:#0075be;
+}
+
+.hs1{
+    color:black;transition: .5s;
+}
+.hs1:hover{
+    color:#0075be;
+}
+
+.bxs{
+    box-shadow: 0px 0px 20px #0000000d;border-radius: 10px;
+    padding: 30px;border: 1px solid silver;
+}
+.bxs:hover{
+    box-shadow: 0px 0px 10px #6356564f;}
